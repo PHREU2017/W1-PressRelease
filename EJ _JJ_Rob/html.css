@@ -1,0 +1,30 @@
+
+.box{
+	position: absolute;
+	top: 450px;
+	left: 550px;
+	border-style: solid;
+	width: 600px;
+	height: 350px;
+	font-size: 20px;
+	color: grey;
+	padding-top: 20px;
+	padding-left: 20px;
+	padding-right: 20px;
+	padding-bottom: 20px;
+}
+
+.two{
+	position: absolute;
+	top: 450px;
+	left: 20px;
+}
+.three{
+	position: absolute;
+	top: 850px;
+}
+
+.bottom{
+	position: absolute;
+	top: 1500px;
+}
