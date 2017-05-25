@@ -1,0 +1,11 @@
+head{font-family: verdana;}
+  body{font-family: verdana;
+    font-size: 100%;
+background-color: pink;
+border-style: groove;
+border-width: thick;
+border-radius: 5px;
+padding: 20px;
+  }
+    img{width:30%;}
+      title{text-align: center;}
